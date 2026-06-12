@@ -6,7 +6,7 @@ author: Your Name
 
 # URL Settings (CRITICAL FOR GITHUB PAGES)
 url: "https://czapata-data-projects.github.io"
-baseurl: "/Camilo-Zapata-The-Data-Analyst"
+baseurl: "/czapata-data-projects.github.io"
 
 # Theme Selection
 theme: jekyll-theme-minimal
