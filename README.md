@@ -3,6 +3,8 @@
 
 Analista de Datos Bilingüe que adora los gatos. Realizo limpiezas impecables de datasets, creo visualizaciones que cuentan la historia de sus números, e incluso ayudo a tomar y crear las mejores decisiones basadas en evidencia. 
 
+📩 Contacto: zapatacastrilloncamilo@gmail.com / [LinkedIn](https://www.linkedin.com/in/camilo-zapata-castrillon-i-want-to-work/)
+
 # 🛠 Tech Stack y Habilidades
 
 SQL | Python | Pandas | NumPy | Matplotlib | Seaborn | Google Sheets | Power BI | Excel | Claude | ChatGPT
