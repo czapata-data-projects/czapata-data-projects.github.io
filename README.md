@@ -1,14 +1,13 @@
 # czapata-data-projects.github.io
-
-# Hi! :D, this is my first time doing this, really excited on how this will turn out n.n
-
 # 🧑‍💻 Sobre mí:
 
-Analista de Datos con curiosidad por descubrir historias ocultas en los números. Me especializo en limpiar datasets y crear visualizaciones que ayuden a los equipos a tomar mejores decisiones basadas en evidencia.
+Analista de Datos Bilingüe que adora los gatos. Realizo limpiezas impecables de datasets, creo visualizaciones que cuentan la historia de sus números, e incluso ayudo a tomar y crear las mejores decisiones basadas en evidencia. 
 
 # 🛠 Tech Stack y Habilidades
 
-Python , SQL, Panadas, Modelos Predictivos, Excel , Visualización de datos
+SQL | Python | Pandas | NumPy | Matplotlib | Seaborn | Google Sheets | Power BI | Excel | Claude | ChatGPT
+
+Inglés C2 | Español Nativo | Francés Básico 
 
 # 1️⃣ Proyecto 1
 
