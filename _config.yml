@@ -1,0 +1,21 @@
+yaml
+# Site Settings
+title: My Awesome Website
+description: A short description of my site for SEO purposes.
+author: Your Name
+
+# URL Settings (CRITICAL FOR GITHUB PAGES)
+url: "https://czapata-data-projects.github.io"
+baseurl: "/Camilo-Zapata-The-Data-Analyst"
+
+# Theme Selection
+theme: jekyll-theme-minimal
+
+# Build and Markdown Settings
+markdown: kramdown
+permalink: /:title/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
